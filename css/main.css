@@ -1,3 +1,385 @@
-/*
- * Estilos de tu proyecto
- */
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+}
+
+body{
+  margin: 0;
+}
+
+/* encabezado*/
+.header{
+  width: 100%;
+  height: 110px;
+  background: #05233B;
+  position: fixed;
+  color: #fff;
+  z-index: 10;
+}
+
+.header nav h3{
+  color: #fff;
+  top: 1%;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+header a{
+  color: #fff;
+  text-decoration: none;
+  left: 80px;
+  display: inline-block;
+  font-weight: bold;
+  padding: 10px;
+}
+
+header a:hover{
+  background: #05233B;
+  color: #19CCA2;
+}
+
+/* primera seccion*/
+
+.bloque img{
+  margin: 10px;
+}
+
+.bloque_1 img{
+  margin: 10px;
+}
+
+.a_1{
+  margin-left: 650px;
+  margin-top: 20px;
+}
+
+.a_2{
+  margin-top: 20px;
+}
+
+.a_3{
+  margin-top: 20px;
+}
+
+.one{
+  background: #19CCA2;
+  width: 100%;
+  text-align: center;
+  height: 800px;
+}
+
+.img_1{
+  margin-top: 195px; 
+  margin-left:-100px;   
+}
+
+.one h2{
+  color: #fff;
+  text-align: center;
+  font-size: 90px;
+  margin-top: 20px;
+}
+
+.part{
+  text-align: center;
+  color: #fff;
+  margin-top: -65px;
+}
+
+.linea{
+  width: 125px; 
+  height: 1px; 
+  border: 3px solid #fff;
+  background: #fff;
+  display: inline-block;
+  vertical-align: super;
+}
+   
+.icono{
+  display: inline-block;
+  color: #fff;
+  font-size: 40px;
+  padding: 0 2px 0 2px;
+}
+  
+.one p{
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+}
+
+/*segunda seccion */
+
+.two{
+  background: #fff;
+  width: 100%;
+  text-align: center;
+}
+ 
+.two h4{
+  font-size: 45px;
+  color: #000;
+  font-weight: bold;
+  font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.part_1{
+  text-align: center;
+  color: #000;
+  margin-top: -65px;
+}
+
+.linea_1{
+  width: 125px; 
+  height: 1px; 
+  border: 3px solid #000;
+  background: #000;
+  display: inline-block;
+  vertical-align: super;
+}
+
+.icono_1{
+  display: inline-block;
+  font-size: 40px;
+  padding: 0 2px 0 2px;
+  color: #000;
+}
+ 
+.bloque{
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  
+}
+
+img:hover{
+  background: #19CCA2;
+}
+
+.bloque_1{
+  display: inline-block;
+}
+
+/* tercera version */
+
+.three{
+  background: #19CCA2;
+  height: 450px;
+  text-align: center;
+}
+
+.titulo{
+  color: #fff;
+  font-size: 50px;
+  margin-top: 40px;  
+  font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.part_3{
+  text-align: center;
+  color: #fff;
+}
+
+.linea_2{
+  width: 125px; 
+  height: 1px; 
+  border: 3px solid #fff;
+  background: #fff;
+  display: inline-block;
+  vertical-align: super;
+}
+ 
+.icono_2{
+  display: inline-block;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.parrafos {
+  height: 300px;
+}
+ 
+.parrafo{
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 20px;
+  float: left;
+  margin-left: 250px;
+}
+
+.parrafo_1{
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 20px;
+  float: right;
+  margin-right: 250px;
+}
+
+.icono_3{
+  color: #fff;
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.caja{
+  width: 180px;
+  height: 40px;
+  border: 2px solid #FFF;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  text-align: center;
+  text-decoration: none;
+  background: #19CCA2;
+  color: #fff;
+  font-size: 17px;
+}
+
+/* cuarta seccion*/
+
+.titulo_1{
+  font-size: 70px;
+  font-weight: bold;
+  margin-top: 75px;
+  font-size: 50px;
+  font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.part_4{   
+  text-align: center;
+  color: #000;
+}
+
+.linea_3{
+  width: 125px; 
+  height: 1px; 
+  border: 3px solid #000;
+  background: #000;
+  display: inline-block;
+  vertical-align: super;
+}
+
+.icono_4{
+  display:inline-block;
+  color: #000;
+  font-size: 25px;
+}
+
+.formulario{
+  margin-top: 80px;
+  color: #999494;
+  font-size: 40px;
+  padding: 40px;
+  text-align: end;
+  margin-right: 17%;
+}
+
+.four {
+  text-align: center;
+}
+
+.boton{
+  background: #19CCA2;
+  color: #fff;
+  height: 60px;
+  width: 100px;
+  margin-top: 100px;
+  margin-bottom: 80px;
+  margin-left: -50%;
+  border-radius: 7px;
+  font-size: 25px;
+  border: #19CCA2;
+}
+
+boton:hover{
+  background: #05233B;
+}
+
+.boton_1{
+  text-align: center;
+}
+
+/* quinta seccion */
+
+.five{
+  background: #05233B;
+  text-align: center;
+}
+
+input{
+  width: 47%;
+  padding: 10px;
+  margin: 9px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #999494;
+  display: inline-block;
+}
+
+.last{
+  color: #fff;
+  font-size: 29px;
+  font-weight: bold;
+}
+
+.etapa_1{
+  display: inline-block;
+  width: 33%;
+  margin-top: 85px;
+}
+
+.etapa_2{
+  display: inline-block;
+  border-top: 10%;
+  width: 33%;
+  margin-top: 85px;
+}
+
+.etapa_3{
+  display: inline-block;
+  width: 33%;
+  margin-top: 85px;
+}
+
+.location{
+  color: #fff;
+  font-size: 20px;
+}
+
+.web{
+  color: #fff;
+  font-size: 20px;
+  width: -50px;
+  display: inline-block;
+}
+
+.redes{
+  color: white;
+}
+
+.five a{
+  color: #19CCA2;
+  text-decoration: none;
+}
+
+.redes * {
+  display: inline-block;
+  padding: 10px;
+}
+
+.etapa_1 p {
+  font-size: 18px;
+}
+
+/*pie de pagina*/
+
+.final{
+  color: #fff;
+  padding-bottom: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  padding-bottom: 20px;
+}
