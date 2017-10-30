@@ -1,36 +1,32 @@
+Freelancer
 
-* Deberás **actualizar el archivo `README.md`** explicando el contenido de tu
-  repositorio.
+Objetivo: replicar la pagina de Freelancer.
 
-* Esta web utiliza 2 tipografías: `Montserrat` y `Lato`.
+Maqueteado de la pagina.
 
-* La paleta de colores puedes obtenerla inspeccionado el sitio original, pero
-  para ganar tiempo, puedes usar los siguientes: `#2c3e50`, `#18bc9c`,
-  `#212529`.
+------*Part one*--------
+Encabezado
+Contiene una lsita de opciones y un titulo.
 
-* Los íconos de redes sociales puedes obtenerlos de [Font Awesome](http://fontawesome.io/).
+------*Part two*--------
+4 secciones 
 
-* Para este reto, encontrarás ciertas cosas que probablemente aun no has visto
-  en clase (formularios). No te preocupes, estamos seguros que lo afrontarás con
-  éxito, de igual forma aquí unos tips:
+las primers 3 secciones
+Contienen integradas iamgenes, y parrafos, las secciones llevan un icono de estrella con una linea.
 
-  - Para el formulario, revisa las etiquetas como `form`, `input`, `button`.
+La seccion 4 
+Contiene un titulo, un boton y un formulario.
 
-* El subrayado que incluye la estrella en las diversas secciones del sitio, en
-  la web original se hace con un ícono y pseudoelementos (`:after`, `:before`),
-  es un reto entretenido, sin embargo, no trates de enfocarte en esa parte desde
-  un inicio ya que no es el objetivo principal del reto :)
+------*Part tree*--------
+Footer
 
-* Puedes ver el [sitio original](https://blackrockdigital.github.io/startbootstrap-freelancer/)
-  para que te des una idea de como debe quedar.
+Este footer tiene los iconos de redes sociales, tres titulos y tres parrafos.
 
 
-## A tener en cuenta
+----------*CSS*-----------
 
-Este reto será evaluado sobre lo siguiente:
+Para darle estilo a la pagina se utilzo css.
 
-* Pixel perfect (replicar el diseño con exactitud)
-* Nombramiento de clases, id, etc
-* Indentación
-* Archivo `README.md` actualizado y correctamente redactado
-* Uso de comentarios para hacer tu código más legible
+
+Realizado por:
+Lexis Rodriguez.
